@@ -12,6 +12,9 @@ This project integrates an AWS Lambda function with API Gateway to create an HTT
 
 ---
 
+![image](https://github.com/user-attachments/assets/55fa5353-4945-476f-8e94-e1b197a2d378)
+
+
 ### **Flow Overview**
 
 1. **Client** (User/API consumer) sends an HTTP request with a `topic` to the API Gateway endpoint.
